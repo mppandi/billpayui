@@ -1,0 +1,100 @@
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\csc.exe
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\vbc.exe
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\VBCSCompiler.exe
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\AeS.nMultiAzure.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\AeS.nMultiAzure.pdb
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Antlr3.Runtime.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\AspNet.ScriptManager.bootstrap.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\AspNet.ScriptManager.jQuery.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.ScriptManager.WebForms.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.Web.Infrastructure.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Newtonsoft.Json.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Owin.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\System.Web.Optimization.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\WebGrease.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\System.Web.Optimization.xml
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Antlr3.Runtime.pdb
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Newtonsoft.Json.xml
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.xml
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.xml
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\obj\Release\AeS.nMultiAzure.dll
+D:\WorkingFolder\Adrenalin 5.0 Product\Development\Build 5.2.0\FOR CLOUD PRODUCT CHANGE\SSO\AZURE\AeS.nMultiAzure\obj\Release\AeS.nMultiAzure.pdb
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\csc.exe
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\vbc.exe
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\VBCSCompiler.exe
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\AeS.nMultiAzure.dll.config
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\AeS.nMultiAzure.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\AeS.nMultiAzure.pdb
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Antlr3.Runtime.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Newtonsoft.Json.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Owin.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\System.Web.Optimization.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\WebGrease.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\System.Web.Optimization.xml
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Antlr3.Runtime.pdb
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Newtonsoft.Json.xml
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.xml
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.xml
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\obj\Release\AeS.nMultiAzure.csprojAssemblyReference.cache
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\obj\Release\AeS.nMultiAzure.csproj.CoreCompileInputs.cache
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\obj\Release\AeS.nMultiAzure.csproj.CopyComplete
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\obj\Release\AeS.nMultiAzure.dll
+C:\Users\vijayakumar.r\Desktop\AZURE\AeS.nMultiAzure\obj\Release\AeS.nMultiAzure.pdb
